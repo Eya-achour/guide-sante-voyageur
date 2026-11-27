@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../data/destinations_data.dart';
 import '../models/destination.dart';
 import '../widgets/destination_card.dart';
+import 'detail_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -30,9 +31,10 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   void _ouvrirDetail(Destination d) {
-    // L'écran de détail sera ajouté à l'étape suivante.
-    ScaffoldMessenger.of(context)
-        .showSnackBar(SnackBar(content: Text('Détail de ${d.nom} : à venir')));
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (context) => DetailScreen(destination: d)),
+    );
   }
 
   void _afficherMenu(Destination d) {
