@@ -16,6 +16,7 @@ Elles ne remplacent pas l'avis d'un médecin.
 - senegal.jpg : https://unsplash.com/fr/photos/des-bateaux-de-peche-colores-amarres-dans-un-port-avec-des-palmiers-3CHwHTZGJiU
 - arabie_saoudite.jpg : https://unsplash.com/fr/photos/mosquee-al-masjid-an-nabawi-a-medine-qbvAboqHkBg
 - turquie.jpg : https://unsplash.com/fr/photos/batiment-en-forme-de-dome-en-beton-brun-et-bleu-kNSREmtaGOE
+-egypte.jpg : https://www.pexels.com/fr-fr/photo/promenade-a-dos-de-chameau-pres-des-pyramides-du-desert-du-sahara-en-egypte-30661548/
 ## Arabie saoudite (consulté le 28/11/2026)
 
 - Institut Pasteur, fiche Arabie saoudite : https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage/arabie-saoudite
@@ -29,3 +30,11 @@ Elles ne remplacent pas l'avis d'un médecin.
 - Institut national de santé publique du Québec : https://www.inspq.qc.ca/sante-voyage/guide/pays/turquie
 - Diplomatie belge, santé et hygiène en Turquie : https://diplomatie.belgium.be/fr/pays/turquie/voyager-en-turquie-conseils-aux-voyageurs/sante-et-hygiene-en-turquie
 - Direction turque de la gestion des migrations, numéros d'urgence : https://en.goc.gov.tr/kurumlar/en.goc/Brosurler/8_acil_durumlar_ENG-2.pdf
+
+## Égypte (consulté le 28/11/2026)
+
+- Institut Pasteur, fiche Égypte : https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage/egypte
+- Institut national de santé publique du Québec : https://www.inspq.qc.ca/sante-voyage/guide/pays/egypte
+- France Diplomatie, santé en Égypte : https://www.diplomatie.gouv.fr/fr/information-par-pays/egypte/conseils-aux-voyageurs-sante
+- France Diplomatie, contacts utiles Égypte : https://www.diplomatie.gouv.fr/fr/information-par-pays/egypte/conseils-aux-voyageurs-contacts-utiles
+- Gouvernement britannique, numéros d'urgence : https://www.gov.uk/foreign-travel-advice/egypt/getting-help
