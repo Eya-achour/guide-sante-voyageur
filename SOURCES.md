@@ -16,7 +16,8 @@ Elles ne remplacent pas l'avis d'un médecin.
 - senegal.jpg : https://unsplash.com/fr/photos/des-bateaux-de-peche-colores-amarres-dans-un-port-avec-des-palmiers-3CHwHTZGJiU
 - arabie_saoudite.jpg : https://unsplash.com/fr/photos/mosquee-al-masjid-an-nabawi-a-medine-qbvAboqHkBg
 - turquie.jpg : https://unsplash.com/fr/photos/batiment-en-forme-de-dome-en-beton-brun-et-bleu-kNSREmtaGOE
--egypte.jpg : https://www.pexels.com/fr-fr/photo/promenade-a-dos-de-chameau-pres-des-pyramides-du-desert-du-sahara-en-egypte-30661548/
+- egypte.jpg : https://www.pexels.com/fr-fr/photo/promenade-a-dos-de-chameau-pres-des-pyramides-du-desert-du-sahara-en-egypte-30661548/
+- france.jpg : https://www.pexels.com/fr-fr/photo/la-tour-eiffel-a-paris-par-temps-clair-34773156/
 ## Arabie saoudite (consulté le 28/11/2026)
 
 - Institut Pasteur, fiche Arabie saoudite : https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage/arabie-saoudite
@@ -38,3 +39,10 @@ Elles ne remplacent pas l'avis d'un médecin.
 - France Diplomatie, santé en Égypte : https://www.diplomatie.gouv.fr/fr/information-par-pays/egypte/conseils-aux-voyageurs-sante
 - France Diplomatie, contacts utiles Égypte : https://www.diplomatie.gouv.fr/fr/information-par-pays/egypte/conseils-aux-voyageurs-contacts-utiles
 - Gouvernement britannique, numéros d'urgence : https://www.gov.uk/foreign-travel-advice/egypt/getting-help
+
+## France (consulté le 28/11/2026)
+
+- Institut Pasteur, fiche France : https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/france
+- Institut national de santé publique du Québec : https://www.inspq.qc.ca/sante-voyage/guide/pays/france
+- ARCEP, liste des numéros d'urgence : https://arcep.fr/uploads/tx_gsavis/15-0153.pdf
+- Service-Public, numéros d'urgence : https://www.service-public.gouv.fr/particuliers/vosdroits/F33954

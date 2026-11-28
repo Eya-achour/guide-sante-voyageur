@@ -230,4 +230,55 @@ final List<Destination> destinationsDataB = [
     lienOfficiel:
         'https://www.pasteur.fr/fr/centre-medical/preparer-son-voyage/egypte',
   ),
+    Destination(
+    id: 'france',
+    nom: 'France',
+    pays: 'France',
+    continent: 'Europe',
+    image: 'assets/images/france.jpg',
+    description:
+        'Pays d\'Europe de l\'Ouest, entre Paris, les côtes, les montagnes et les campagnes.',
+    vaccins: const [
+      Vaccin(
+        nom: 'Vaccins de routine à jour',
+        obligatoire: false,
+        description:
+            'Vérifiez que les vaccins du calendrier vaccinal sont à jour avant le départ.',
+      ),
+      Vaccin(
+        nom: 'Encéphalite à tiques',
+        obligatoire: false,
+        description:
+            'Peut être envisagée pour un séjour en zone rurale ou boisée dans l\'est du pays, du printemps à l\'automne.',
+      ),
+    ],
+    risques: const [
+      RisqueSanitaire(
+        nom: 'Tiques (maladie de Lyme)',
+        niveau: NiveauRisque.moyen,
+        prevention:
+            'Vêtements couvrants en zone boisée, vérification de la peau après une sortie en nature.',
+      ),
+      RisqueSanitaire(
+        nom: 'Dengue (cas localisés)',
+        niveau: NiveauRisque.faible,
+        prevention: 'Répulsif et vêtements couvrants en période estivale.',
+      ),
+    ],
+    conseils: const [
+      'Mettez à jour vos vaccins du calendrier vaccinal avant le départ.',
+      'Il n\'y a pas de paludisme en France métropolitaine.',
+      'Protégez-vous des tiques lors des sorties en zone rurale ou boisée.',
+      'Évitez le lait cru et les fromages au lait cru si vous êtes enceinte ou avec de jeunes enfants.',
+    ],
+    urgences: const {
+      'Numéro d\'urgence européen': '112',
+      'Urgence médicale (SAMU)': '15',
+      'Police': '17',
+      'Pompiers': '18',
+      'Urgences pour sourds et malentendants': '114',
+    },
+    lienOfficiel:
+        'https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/france',
+  ),
 ];
