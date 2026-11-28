@@ -35,7 +35,7 @@ class RiskChip extends StatelessWidget {
       margin: const EdgeInsets.only(bottom: 8),
       padding: const EdgeInsets.all(12),
       decoration: BoxDecoration(
-        color: _couleur.withOpacity(0.1),
+        color: _couleur.withValues(alpha: 0.1),
         border: Border.all(color: _couleur),
         borderRadius: BorderRadius.circular(8),
       ),
